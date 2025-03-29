@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\seven\seven\bin\Debug\net6.0-windows\seven.exe
+C:\Users\User\Desktop\seven\seven\bin\Debug\net6.0-windows\seven.deps.json
+C:\Users\User\Desktop\seven\seven\bin\Debug\net6.0-windows\seven.runtimeconfig.json
+C:\Users\User\Desktop\seven\seven\bin\Debug\net6.0-windows\seven.dll
+C:\Users\User\Desktop\seven\seven\bin\Debug\net6.0-windows\seven.pdb
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\seven.Form1.resources
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\seven.csproj.GenerateResource.cache
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\seven.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\seven.AssemblyInfo.cs
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\seven.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\seven.dll
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\refint\seven.dll
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\seven.pdb
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\seven.genruntimeconfig.cache
+C:\Users\User\Desktop\seven\seven\obj\Debug\net6.0-windows\ref\seven.dll

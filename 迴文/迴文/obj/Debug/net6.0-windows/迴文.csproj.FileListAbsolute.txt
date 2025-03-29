@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\迴文\迴文\bin\Debug\net6.0-windows\迴文.exe
+C:\Users\User\Desktop\迴文\迴文\bin\Debug\net6.0-windows\迴文.deps.json
+C:\Users\User\Desktop\迴文\迴文\bin\Debug\net6.0-windows\迴文.runtimeconfig.json
+C:\Users\User\Desktop\迴文\迴文\bin\Debug\net6.0-windows\迴文.dll
+C:\Users\User\Desktop\迴文\迴文\bin\Debug\net6.0-windows\迴文.pdb
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\迴文.Form1.resources
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\迴文.csproj.GenerateResource.cache
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\迴文.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\迴文.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\迴文.AssemblyInfo.cs
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\迴文.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\迴文.dll
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\refint\迴文.dll
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\迴文.pdb
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\迴文.genruntimeconfig.cache
+C:\Users\User\Desktop\迴文\迴文\obj\Debug\net6.0-windows\ref\迴文.dll
